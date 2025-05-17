@@ -1,1 +1,25 @@
+title: Ragtag
+author:
+  name: Vijay
+  email: vijaynyaya@gmail.com
+description: >
+  I don't have a specific goal in mind for this blog, nor do I intend to
+  limit it to any one subject area. Just some things for which I found
+  the time and motivation to write about.
+
 theme: jekyll-theme-minima
+
+minima:
+  skin: auto
+  nav_pages:
+    - /docs/about.md
+    - /README.md
+  show_excerpts: false
+  date_format: "%d-%m-%Y"
+  social_links:
+    - title: vijaynyaya
+      icon: github
+      url: "https://github.com/vijaynyaya"
+    - title: Vijay Kumar
+      icon: x-linkedin
+      url: "https://linkedin.com/in/vijaynyaya"
